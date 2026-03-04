@@ -31,5 +31,6 @@ while(True):
         print(dizionario)
 
     break
+    # commit
 
 # una parola --> multiple traduzioni
